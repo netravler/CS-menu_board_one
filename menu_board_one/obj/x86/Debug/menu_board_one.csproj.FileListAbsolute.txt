@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\bin\Debug\menu_board_one.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\bin\Debug\menu_board_one.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Debug\menu_board_one.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Debug\menu_board_one.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Debug\menu_board_one.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Debug\menu_board_one.pdb

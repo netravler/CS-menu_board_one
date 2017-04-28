@@ -1,0 +1,12 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\bin\Release\menu_board_one.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\bin\Release\menu_board_one.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\bin\Release\menu_board_one.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\bin\Release\menu_board_one.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.Form1.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.csproj.GenerateResource.Cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\menu_board_one\menu_board_one\obj\x86\Release\menu_board_one.csprojResolveAssemblyReference.cache
